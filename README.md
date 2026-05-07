@@ -67,12 +67,15 @@ I estimated four regression models:
 The control variables include restaurant chain and ownership type.
 
 ## Project Files 
+
+```text
 .
 ├── card_krueger_analysis.R
 ├── fast-food-data.csv
-├── README.md
 ├── Mean FTE Employment by State and Period.png
 ├── OLS Estimates of Change in FTE Employment.html 
+└── README.md
+```
 
 ## Results
 
